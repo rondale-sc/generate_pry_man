@@ -2,22 +2,17 @@ PRY(1) -- A Reference to the PRY repl.
 ======================================
 
 ##Synopsis
-
-
-`pry` [`--version`] [`--exec`] [`--no-pager`] [`--no-history`] [`--no-color`] [`-f`] [`--no-plugins`] [`--installed-plugins`] [`--simple-prompt`] [`--require` _file_] [`-I`] [`--context`] [`--help`]
+#
 
 ## DESCRIPTION
-
 
 Pry is a powerful alternative to the standard IRB shell for Ruby. It is written from scratch to provide a number of advanced features.
 
 ## HOMEPAGE
 
-
 http://pry.github.com/
 
 ##OPTIONS
-
 
 * `-v --version`:
   Prints the version of Pry.
